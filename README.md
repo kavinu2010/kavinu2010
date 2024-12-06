@@ -1,9 +1,10 @@
 # Kavitha
 <div id="header" align="center"> 
-<picture>
+  <div><picture>
   
   <img src="https://cdn.dribbble.com/users/1428359/screenshots/4789906/media/6a69cc1cf11e3a2f5f3b7a95a8aef4ca.gif" width="200">
-</picture>
+</picture></div>
+<img src="https://komarev.com/ghpvc/?username=kavinu2010" alt=" "/>
 </div>
 
 ---
@@ -11,10 +12,15 @@
 👩‍💻 About Me:
 
 • 👋 Hi, I’m Kavitha  
+
 • 🔭 I’m a junior Full-stack Python developer from India, currently living in Stockholm, Sweden.  
+
 • 📖👩‍🏫 Previously worked as a Lecturer & changed career to follow my passion for web development.  
+
 • 👀 I’m interested in contributing to frontend and backend for building web applications.  
+
 • 🌱 I’m currently exploring Typescript.  
+
 • 📫 Connect to me:
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kavitha-m-s/)  
 
