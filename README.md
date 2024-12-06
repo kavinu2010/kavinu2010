@@ -1,15 +1,10 @@
 # Kavitha
  
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif](https://giphy.com/gifs/salesforce-developer-devs-salesforce-developers-9xBkeTB5XY1ahOqgMW)" width="200"/>
-  <div id="badges">
-  <a href="http://www.linkedin.com/in/swathi-sidharthan">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- </div>
-  <img src="https://komarev.com/ghpvc/?username=dhyanswathi" alt=" "/>
-</div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 ---
 
 👩‍💻 About Me:
@@ -18,7 +13,7 @@
 • 📖👩‍🏫 Previously worked as a Lecturer & changed career to follow my passion for web development.  
 • 👀 I’m interested in contributing to frontend and backend for building web applications.  
 • 🌱 I’m currently exploring Typescript.  
-• 📫 Connect to me on:  
+• 📫 Connect to me:
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kavitha-m-s/)  
 
 ---
