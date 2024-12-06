@@ -12,15 +12,14 @@
 
 ---
 
-### :woman_technologist: About Me :
-- 👋 Hi, I’m  kavitha
-- :telescope: I’m a junior Full-stack Dotnet developer from India, currently living in Stockholm, Sweden.
-- 🩺 Previously worked as an ayurvedic doctor & changed careers to follow my passion for web development.
-
-- 👀 I’m interested in contributing to frontend and backend for building web applications.
-- 🌱 I’m currently exploring Typescript.
-- 📫 Connect to me @ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/swathi-sidharthan)
-- Portfolio: "https://swathi-sidharthan.netlify.app/"
+👩‍💻 About Me:
+• 👋 Hi, I’m Kavitha  
+• 🔭 I’m a junior Full-stack Python developer from India, currently living in Stockholm, Sweden.  
+• 📖👩‍🏫 Previously worked as a Lecturer & changed career to follow my passion for web development.  
+• 👀 I’m interested in contributing to frontend and backend for building web applications.  
+• 🌱 I’m currently exploring Typescript.  
+• 📫 Connect to me on:  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kavitha-m-s/)  
 
 ---
 
@@ -50,14 +49,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="angular" width="40" height="40">&nbsp;
 </div>
 
- 👩‍💻 About Me:
-• 👋 Hi, I’m Kavitha  
-• 🔭 I’m a junior Full-stack Python developer from India, currently living in Stockholm, Sweden.  
-• 📖👩‍🏫 Previously worked as a Lecturer & changed career to follow my passion for web development.  
-• 👀 I’m interested in contributing to frontend and backend for building web applications.  
-• 🌱 I’m currently exploring Typescript.  
-• 📫 Connect to me on:  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kavitha-m-s/)  
+ 
 
 
   ### 🛠️ Languages and Tools:
