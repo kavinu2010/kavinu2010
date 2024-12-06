@@ -9,6 +9,7 @@
 ---
 
 👩‍💻 About Me:
+
 • 👋 Hi, I’m Kavitha  
 • 🔭 I’m a junior Full-stack Python developer from India, currently living in Stockholm, Sweden.  
 • 📖👩‍🏫 Previously worked as a Lecturer & changed career to follow my passion for web development.  
