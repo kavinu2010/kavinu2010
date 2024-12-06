@@ -1,10 +1,10 @@
 # Kavitha
- 
+<div id="header" align="center"> 
 <picture>
   
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
 </picture>
-
+</div>
 
 ---
 
