@@ -2,7 +2,7 @@
  
 <picture>
   
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXlqZmJuOWpzeGJudHhxc2RlZWc3cm5lMWZraTdoenlkaHBsazl3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9xBkeTB5XY1ahOqgMW/giphy.gif">
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
 </picture>
 
 
