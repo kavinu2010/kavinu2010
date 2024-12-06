@@ -1,5 +1,5 @@
 # Kavitha
-![Header Image](https://path-to-your-image.com/image.png)
+ 
 
 
  👩‍💻 About Me:
