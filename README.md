@@ -18,7 +18,7 @@
 
 • 👀 I’m interested in contributing to frontend and backend for building web applications.  
 
-• 🌱 I’m currently exploring Typescript.  
+• 🌱 I’m currently exploring Artificial Intelligence.  
 
 • 📫 Connect to me:
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kavitha-m-s/)  
